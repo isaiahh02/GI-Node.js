@@ -1,0 +1,15 @@
+{
+    "employees": [
+        {"name": "isaiah", "employee id": 5555, "salary":"50k a year", "department":"human resources"},
+        {"name": "jodi", "employee id": 5556, "salary":"50k a year", "department":"accountant"},
+        {"name": "jordan", "employee id": 5557, "salary":"50k a year", "department":"human resources"},
+        {"name": "justin", "employee id": 5558, "salary":"50k a year", "department":"accountant"},
+        {"name": "faith", "employee id": 5559, "salary":"50k a year", "department":"human resources"},
+        {"name": "osiel", "employee id": 5560, "salary":"50k a year", "department":"human resources"},
+        {"name": "isaac", "employee id": 5561, "salary":"50k a year", "department":"accountant"},
+        {"name": "drew", "employee id": 5562, "salary":"50k a year", "department":"human resources"},
+        {"name": "ay'shya", "employee id": 5563, "salary":"50k a year", "department":"accountant"},
+        {"name": "james", "employee id": 5564, "salary":"50k a year", "department":"human resources"}
+    ]}
+    
+
